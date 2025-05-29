@@ -2,6 +2,10 @@
 
 A comprehensive authentication system built with Next.js and Typescript, featuring both local authentication and OAuth capabilities. The system includes email verification, password reset functionality, and session management.
 
+This is a starter file. The completed project file can be found [here: Completed User Authentication Flow](https://toyosiola.gumroad.com/l/complete_user_authentication_flow)
+
+See how the whole project is built step by step on (Youtube)[]
+
 ## Features
 
 ### Local Authentication
@@ -10,7 +14,6 @@ A comprehensive authentication system built with Next.js and Typescript, featuri
 - Email verification system
   - Users must verify email within 15 minutes of registration
   - Verification link can be resent if expired
-  - Unverified accounts are automatically deleted after 24 hours
 - Secure password reset flow
   - Reset links expire after 10 minutes
   - Users can request new reset links if expired
@@ -24,7 +27,6 @@ A comprehensive authentication system built with Next.js and Typescript, featuri
 
 - Session-based authentication
   - Redis-based session tracking
-  - Automatic cleanup of stale sessions
 - Secure password hashing
 - Protection against common vulnerabilities
 
