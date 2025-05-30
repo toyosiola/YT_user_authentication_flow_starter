@@ -4,7 +4,7 @@ A comprehensive authentication system built with Next.js and Typescript, featuri
 
 This is a starter file. The completed project file can be found [here: Completed User Authentication Flow](https://toyosiola.gumroad.com/l/complete_user_authentication_flow)
 
-See how the whole project is built step by step on (Youtube)[]
+See how the whole project is built step by step (here on Youtube)[https://youtube.com/playlist?list=PLbFqCW9bd3y9ybvp4LjoiSCoCuqGPtGRH&si=lvda6mSMI_MikFbZ]
 
 ## Features
 
